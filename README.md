@@ -1,2 +1,2 @@
-# js.-jogo-do-pong
-jogo do pong feito com base nas aulas do alura por Roger do 3°A
+# js.-lições feitas na eescola
+lições com bases nas aulas do alura, feitas por Roger do 3°A
